@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\WhoWantToBeMilloner.csproj": {}
+    "C:\\Users\\Forelock\\Source\\Repos\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\WhoWantToBeMilloner.csproj": {}
   },
   "projects": {
-    "D:\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\WhoWantToBeMilloner.csproj": {
+    "C:\\Users\\Forelock\\Source\\Repos\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\WhoWantToBeMilloner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\WhoWantToBeMilloner.csproj",
+        "projectUniqueName": "C:\\Users\\Forelock\\Source\\Repos\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\WhoWantToBeMilloner.csproj",
         "projectName": "WhoWantToBeMilloner",
-        "projectPath": "D:\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\WhoWantToBeMilloner.csproj",
-        "packagesPath": "C:\\Users\\progr\\.nuget\\packages\\",
-        "outputPath": "D:\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\obj\\",
+        "projectPath": "C:\\Users\\Forelock\\Source\\Repos\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\WhoWantToBeMilloner.csproj",
+        "packagesPath": "C:\\Users\\Forelock\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Forelock\\Source\\Repos\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\progr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Forelock\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -61,7 +61,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

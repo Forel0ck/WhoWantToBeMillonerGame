@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\Forelock\source\repos\WhoWantToBeMillonerGame\WhoWantToBeMilloner\obj\Debug\net6.0-windows\
+C:\Users\Forelock\source\repos\WhoWantToBeMillonerGame\WhoWantToBeMilloner\obj\Release\net6.0-windows\
 WhoWantToBeMilloner
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Users\Forelock\source\repos\WhoWantToBeMillonerGame\WhoWantToBeMilloner\App.xaml
 21677009915
 
